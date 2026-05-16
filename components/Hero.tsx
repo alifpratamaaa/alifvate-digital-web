@@ -68,7 +68,7 @@ export const Hero: React.FC = () => {
             className="flex flex-col sm:flex-row justify-center items-center gap-6"
           >
             <InteractiveButton
-              href="https://wa.me/6281234567890?text=Halo%20Alifvate%20Digital,%20saya%20tertarik%20pesan%20website%2099rb"
+              href="https://wa.me/6289663084201?text=Halo%20Alifvate%20Digital,%20saya%20tertarik%20pesan%20website%2099rb"
               className="px-6 py-4 sm:px-12 sm:py-6 bg-[#2563eb] text-white rounded-[2rem] font-black text-sm sm:text-xl shadow-2xl shadow-blue-200 hover:bg-blue-700 hover:-translate-y-1"
               icon={<ArrowRight className="w-4 h-4 sm:w-6 sm:h-6" />}
             >
