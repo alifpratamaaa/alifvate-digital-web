@@ -59,7 +59,7 @@ export const Navbar: React.FC = () => {
             {/* CTA Button Desktop */}
             <div className="hidden lg:flex">
               <InteractiveButton
-                href="https://wa.me/6281234567890?text=Halo%20Alifvate%20Digital,%20saya%20tertarik%20pesan%20website%2099rb"
+                href="https://wa.me/6289663084201?text=Halo%20Alifvate%20Digital,%20saya%20tertarik%20pesan%20website%2099rb"
                 className="bg-[#2563eb] text-white px-6 py-3 xl:px-8 xl:py-3.5 rounded-full text-xs xl:text-[15px] font-black hover:bg-blue-700 shadow-xl shadow-blue-200"
               >
                 Konsultasi Gratis
@@ -102,7 +102,7 @@ export const Navbar: React.FC = () => {
                 ))}
                 <div className="pt-4">
                   <InteractiveButton
-                    href="https://wa.me/6281234567890?text=Halo%20Alifvate%20Digital,%20saya%20tertarik%20pesan%20website%2099rb"
+                    href="https://wa.me/6289663084201?text=Halo%20Alifvate%20Digital,%20saya%20tertarik%20pesan%20website%2099rb"
                     className="block w-full text-center bg-blue-600 text-white px-6 py-5 rounded-2xl font-black text-lg shadow-[0_10px_30px_rgba(37,99,235,0.3)]"
                   >
                     Konsultasi Gratis Sekarang
@@ -116,7 +116,7 @@ export const Navbar: React.FC = () => {
 
       {/* Floating WhatsApp Button */}
       <motion.a
-        href="https://wa.me/6281234567890"
+        href="https://wa.me/6289663084201"
         target="_blank"
         initial={{ scale: 0, y: 40 }}
         animate={{ scale: 1, y: 0 }}
