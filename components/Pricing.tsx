@@ -9,10 +9,10 @@ export const Pricing: React.FC = () => {
     'Website 1 Halaman (Landing Page)',
     'Responsive (Mobile, Tablet, Desktop)',
     'Desain Modern & Exclusive',
-    'Domain Gratis (.vercel.app)',
-    'Keamanan SSL / HTTPS Ultra Secure',
-    'Revisi Sampai Puas*',
-    'Integrasi Tombol WhatsApp Direct',
+    'Domain Gratis',
+    'Keamanan SSL / HTTPS',
+    'Revisi Sampai Deal',
+    'Integrasi Tombol WhatsApp Direct, dll',
   ];
 
   return (
@@ -90,7 +90,7 @@ export const Pricing: React.FC = () => {
 
             <div className="relative z-10">
               <InteractiveButton
-                href="https://wa.me/6281234567890?text=Halo%20Alifvate%20Digital,%20saya%20mau%20ambil%20Paket%2099rb"
+                href="https://wa.me/6289663084201?text=Halo%20Alifvate%20Digital,%20saya%20mau%20ambil%20Paket%2099rb"
                 className="block w-full text-center px-6 py-5 sm:px-8 sm:py-7 bg-blue-600 text-white rounded-[2rem] sm:rounded-[2.5rem] font-black text-lg sm:text-2xl shadow-[0_20px_50px_rgba(37,99,235,0.3)] hover:bg-blue-700 hover:-translate-y-1.5"
                 icon={<Zap className="w-5 h-5 sm:w-6 sm:h-6 fill-current" />}
               >

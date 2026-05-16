@@ -80,7 +80,7 @@ export const About: React.FC = () => {
               
               <div className="space-y-8 text-xl text-slate-500 font-medium leading-relaxed mb-14">
                 <p>
-                  Di <span className="text-slate-900 font-black">Alifvate Digital</span>, kami percaya bahwa setiap usaha layak memiliki "rumah digital" yang keren tanpa harus menguras kantong jutaan rupiah.
+                  Di <span className="text-slate-900 font-black">Alifvate Digital</span>, kami percaya bahwa setiap usaha layak memiliki "rumah digital" yang keren tanpa harus menguras kantong ratusan ribu hingga jutaan rupiah.
                 </p>
                 <p>
                   Kami hadir untuk memangkas kerumitan teknis. Gak perlu pusing mikirin server, coding, atau desain yang ribet. Cukup kirim kontenmu, biar kami yang bereskan sisanya dalam hitungan hari.
