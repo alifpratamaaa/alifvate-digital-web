@@ -57,7 +57,7 @@ export const CTA: React.FC = () => {
               className="flex flex-col md:flex-row items-center justify-center gap-6 sm:gap-10"
             >
               <InteractiveButton
-                href="https://wa.me/6281234567890?text=Halo%20Alifvate%20Digital,%20saya%20tertarik%20pesan%20website%2099rb"
+                href="https://wa.me/6289663084201?text=Halo%20Alifvate%20Digital,%20saya%20tertarik%20pesan%20website%2099rb"
                 className="w-full sm:w-auto px-10 py-5 sm:px-14 sm:py-7 bg-blue-600 text-white rounded-2xl sm:rounded-[2.5rem] font-black text-lg sm:text-2xl shadow-2xl shadow-blue-900/40 hover:bg-blue-700 hover:-translate-y-2"
                 icon={<MessageCircle className="w-5 h-5 sm:w-6 sm:h-6 fill-current" />}
               >
