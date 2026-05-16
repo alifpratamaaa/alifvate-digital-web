@@ -7,10 +7,10 @@ import { InteractiveButton } from './InteractiveButton';
 export const Services: React.FC = () => {
   const serviceTypes = [
     { title: 'Landing Page', desc: 'Halaman promosi produk/jasa biar jualan makin laris.', img: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800' },
-    { title: 'Company Profile', desc: 'Profile bisnis biar terlihat profesional di mata klien.', img: 'https://images.unsplash.com/photo-1486406146926-c627a92fb1ab?auto=format&fit=crop&q=80&w=800' },
+    { title: 'Company Profile', desc: 'Profile bisnis biar terlihat profesional di mata klien.', img: '/images/company.png' },
     { title: 'Portfolio Pribadi', desc: 'Pamerin karya atau CV online biar makin dilirik recruiter.', img: 'https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&q=80&w=800' },
     { title: 'Katalog Produk', desc: 'List produk jualanmu biar customer gampang milih.', img: 'https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=800' },
-    { title: 'Microsite / Link Bio', desc: 'Alternatif Linktree yang lebih eksklusif & branded.', img: 'https://images.unsplash.com/photo-1512428559083-a401c338e45e?auto=format&fit=crop&q=80&w=800' },
+    { title: 'Microsite / Link Bio', desc: 'Alternatif Linktree yang lebih eksklusif & branded.', img: '/images/microsite.png' },
     { title: 'Promo Page', desc: 'Halaman khusus event atau promo terbatas bisnismu.', img: 'https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&q=80&w=800' },
   ];
 
