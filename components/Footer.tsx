@@ -19,13 +19,13 @@ export const Footer: React.FC = () => {
               Website simpel, cepat, dan terjangkau untuk semua pelaku usaha di Indonesia.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="w-10 h-10 sm:w-12 sm:h-12 rounded-xl sm:rounded-2xl bg-slate-900 flex items-center justify-center hover:bg-blue-600 transition-all border border-slate-800">
+              <a href="https://www.instagram.com/alifvate/" className="w-10 h-10 sm:w-12 sm:h-12 rounded-xl sm:rounded-2xl bg-slate-900 flex items-center justify-center hover:bg-blue-600 transition-all border border-slate-800">
                 <Instagram className="w-5 h-5" />
               </a>
               <a href="mailto:halo@alifvatedigital.com" className="w-10 h-10 sm:w-12 sm:h-12 rounded-xl sm:rounded-2xl bg-slate-900 flex items-center justify-center hover:bg-blue-600 transition-all border border-slate-800">
                 <Mail className="w-5 h-5" />
               </a>
-              <a href="https://wa.me/6281234567890" target="_blank" className="w-10 h-10 sm:w-12 sm:h-12 rounded-xl sm:rounded-2xl bg-slate-900 flex items-center justify-center hover:bg-blue-600 transition-all border border-slate-800">
+              <a href="https://wa.me/89663084201" target="_blank" className="w-10 h-10 sm:w-12 sm:h-12 rounded-xl sm:rounded-2xl bg-slate-900 flex items-center justify-center hover:bg-blue-600 transition-all border border-slate-800">
                 <Phone className="w-5 h-5" />
               </a>
             </div>
