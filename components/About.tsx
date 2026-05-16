@@ -75,7 +75,7 @@ export const About: React.FC = () => {
               </div>
               
               <h2 className="text-[44px] md:text-6xl font-black text-slate-900 mb-10 leading-[1.1] tracking-tight">
-                Partner Digital <br /> <span className="text-blue-600">Terbaik</span> UMKM.
+                Partner Digital <br /> <span className="text-blue-600">Terbaik</span> UMKM & Personal Brand.
               </h2>
               
               <div className="space-y-8 text-xl text-slate-500 font-medium leading-relaxed mb-14">
