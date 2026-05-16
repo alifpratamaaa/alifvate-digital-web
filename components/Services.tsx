@@ -73,7 +73,7 @@ export const Services: React.FC = () => {
               <div className="p-4 sm:p-10">
                 <p className="text-slate-500 text-[10px] sm:text-lg leading-relaxed font-bold mb-4 sm:mb-8 line-clamp-3 sm:line-clamp-none">{service.desc}</p>
                 <InteractiveButton 
-                   href="https://wa.me/6281234567890"
+                   href="https://wa.me/6289663084201"
                    className="inline-flex items-center gap-1 sm:gap-2 text-blue-600 font-black text-[9px] sm:text-sm uppercase tracking-widest group/link"
                    icon={<ArrowRight className="w-3 h-3 sm:w-4 sm:h-4 group-hover/link:translate-x-1 transition-transform" />}
                 >
