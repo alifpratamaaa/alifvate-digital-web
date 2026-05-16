@@ -9,10 +9,10 @@ export const Pricing: React.FC = () => {
     'Website 1 Halaman (Landing Page)',
     'Responsive (Mobile, Tablet, Desktop)',
     'Desain Modern & Exclusive',
-    'Domain Gratis (.vercel.app)',
-    'Keamanan SSL / HTTPS Ultra Secure',
-    'Revisi Sampai Puas*',
-    'Integrasi Tombol WhatsApp Direct',
+    'Domain Gratis',
+    'Keamanan SSL / HTTPS',
+    'Revisi Sampai Deal',
+    'Integrasi Tombol WhatsApp Direct, dll',
   ];
 
   return (
